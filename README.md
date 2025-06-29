@@ -11,11 +11,11 @@
 
 ## 🚀 Features
 
-- **Ultra lightweight:** ~1KB minified  
-- **Zero dependencies** — pure vanilla JS  
-- **Easy to use:** just one function to copy text  
+- Ultra lightweight (~1KB minified)  
+- Zero dependencies — pure vanilla JS  
+- Easy to use: just one function to copy text  
 - Works in modern browsers & provides fallback for older ones  
-- Supports **ESM import** and **global usage via CDN**
+- Supports ESM import and global usage via CDN
 
 ---
 
