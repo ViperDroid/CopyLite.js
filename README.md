@@ -19,9 +19,13 @@
 
 ---
 
-## 📦 Installation
+## 🚀 Installation & Usage
 
 ### 1. Using NPM (Recommended)
 
-```bash
-npm install @viper_droid/copylite
+Import and use in your JavaScript project:
+
+```js
+import { copyToClipboard } from '@viper_droid/copylite';
+
+copyToClipboard('Hello from CopyLite!');
