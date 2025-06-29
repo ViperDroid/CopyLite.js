@@ -2,7 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/@viper_droid/copylite.svg)](https://www.npmjs.com/package/@viper_droid/copylite)  
 [![license](https://img.shields.io/npm/l/@viper_droid/copylite.svg)](https://opensource.org/licenses/MIT)  
-[![downloads](https://img.shields.io/npm/dt/@viper_droid/copylite.svg)]([https://www.npmjs.com/package/@viper_droid/copylite](https://www.npmjs.com/package/@viper_droid/copylite))  
+[![npm version](https://img.shields.io/npm/v/@viper_droid/copylite.svg)](https://www.npmjs.com/package/@viper_droid/copylite)
+
 
 > A tiny, dependency-free JavaScript library to copy any text to the clipboard —  
 > Works in all modern browsers with graceful fallback.
